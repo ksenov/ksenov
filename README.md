@@ -3,7 +3,7 @@
 
 Я Frontend-Developer👨🏻‍💻, с опытом работы 2 года🚀
 
-*   🖥️  Мое портфолио [portfolio](http://www.google.com)
+*   🖥️  Мое портфолио - (идут технические работы 🛠, скоро появится🌐)
 *   ✉️  Связаться можно по [ksenboris@mail.ru](mailto:ksenboris@mail.ru)
 *   🧠  Учу RxJs
 
