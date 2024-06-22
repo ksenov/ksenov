@@ -2,7 +2,7 @@
   <img src="assets/me.png"  />
 </div>
 
-<h1 align="center">Привет👋 Меня зовут Борис!</h1>
+<h1 align="left">Привет👋 Меня зовут Борис!</h1>
 
 Я Frontend-Developer👨🏻‍💻, с опытом работы 2 года🚀
 
@@ -12,7 +12,7 @@
 
 
 ### Skills 
-<p align="center">
+<p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
     </a>
@@ -45,8 +45,8 @@
     </a>
 </p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/xenoba)
+![Leetcode Stats](https://leetcard.jacoblin.cool/xenoba?ext=activity)
 
-<p align="center">
+<p align="left">
     <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
