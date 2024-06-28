@@ -6,7 +6,7 @@
 
 Я Frontend-Developer👨🏻‍💻, с опытом работы 2 года🚀
 
-*   ✉️  Связаться можно по [ksenboris@mail.ru](mailto:ksenboris@mail.ru)
+*   ✉️  Связаться со мной: https://t.me/Vivektor
 *   🧠  Учу RxJs
 
 
