@@ -1,6 +1,4 @@
-<div align="center">
-  ![Cool GIF](cat-laptop.gif)
-</div>
+![Cool GIF](cat-laptop.gif)
 
 <h1 align="left">Привет👋 Меня зовут Борис!</h1>
 
