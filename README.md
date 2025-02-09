@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/me.png" />
+  ![Cool GIF](cat-laptop.gif)
 </div>
 
 <h1 align="left">Привет👋 Меня зовут Борис!</h1>
