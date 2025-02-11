@@ -4,9 +4,6 @@
 
 Я Frontend-Developer👨🏻‍💻
 
-*   ✉️  Связаться со мной: https://t.me/Vivektor
-*   🧠  Учу RxJs
-
 
 ### Skills 
 <p align="left">
@@ -43,6 +40,8 @@
 </p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/xenoba?ext=activity)
+
+*   ✉️  Связаться со мной: https://t.me/Vivektor
 
 <p align="left">
     <img width="600" src="assets/github-snake.svg" alt="snake"/>
