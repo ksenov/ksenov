@@ -1,8 +1,8 @@
 ![Cool GIF](cat-laptop.gif)
 
-<h1 align="left">Привет👋 Меня зовут Борис!</h1>
+<h1 align="left">Привет👋 Я Борис!</h1>
 
-Я Frontend-Developer👨🏻‍💻
+Frontend-Developer👨🏻‍💻
 
 
 ### Skills 
